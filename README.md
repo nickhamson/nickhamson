@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm Nick Hamson! I'm about to graduate from BYU in Data Science.
+Right now I'm working on projects for finishing my degree.
+
+### My favorite languages
+- C++
+- Java
+- Python
+- R
 
 <!--
 **nickhamson/nickhamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
