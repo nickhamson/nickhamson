@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Nick Hamson! I'm about to graduate from BYU in Data Science.
-Right now I'm working on projects for finishing my degree.
+I'm Nick Hamson! I'm a BYU graduate in Statistics - Data Science.
+Right now I'm interested in finding an exciting data science position.
 
 ### My favorite languages
 - C++
